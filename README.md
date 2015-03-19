@@ -1,2 +1,5 @@
 # docker-jdk7
-Oracle JDK7 Docker baseline 
+
+A basic [Docker|http://docker.io] container that includes Oracle JDK 7 on Ubuntu
+
+
